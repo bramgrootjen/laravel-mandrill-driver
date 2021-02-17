@@ -1,5 +1,5 @@
 {
-    "name": "therobfonz/laravel-mandrill-driver",
+    "name": "sunergetic/laravel-mandrill-driver",
     "description": "Mandrill Driver for Laravel 6+",
     "type": "library",
     "keywords": ["Laravel","Mandrill"],
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.0",
         "guzzlehttp/guzzle": "^6.3",
         "illuminate/support": "^6.0"
     },
